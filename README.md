@@ -2,6 +2,8 @@
 
 An Alfred workflow that translates text using Google Translate. Results appear directly in Alfred, so there is no need to open the Google Translate website.
 
+Note: you must have the Alfred Powerpack to use this workflow.
+
 ## Setup
 
 You must have a Google Account to use this workflow.
